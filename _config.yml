@@ -12,3 +12,5 @@ twitter_username: tu-usuario-de-twitter
 github_username:  tu-usuario-de-github
 
 show_excerpts: true # pon false para no mostrar los extractos en la página principal
+
+theme: jekyll-theme-slate
